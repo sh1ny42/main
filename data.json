@@ -1,0 +1,15 @@
+{
+    "apartments": [
+        {
+            "number": 15,
+            "size": 67,
+            "rooms": 1,
+            "floor": 7,
+            "residents": 2
+        }
+    ],
+    "residents": [
+        "demesh",
+        "\u043d\u0443\u0440\u0430"
+    ]
+}
